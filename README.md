@@ -1,3 +1,7 @@
+# AIS Data Project
+
+This is a jupyter notebook project which aims to visulise AIS station data and uses this to predict probability that ships exist in a given regions. The data was sourced from [AIS hub](http://www.aishub.net/stations). Machine learning and consideration of different variables for each region to provide better predictions for regions of the world that are not part of the AIS network.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/cojs2018/AIS-Data-Project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
